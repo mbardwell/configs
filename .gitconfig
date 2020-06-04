@@ -2,7 +2,7 @@
 [user]
 # Please adapt and uncomment the following lines:
         name = Michael Bardwell
-        email = mdbardwe@ghgsat.com
+        email = bardwell@ualberta.ca
 [alias]
         co = checkout
         cob = checkout -b
